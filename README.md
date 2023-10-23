@@ -24,5 +24,5 @@ Sobre mi:
   <ul>
     <li>🔭 Dispuesto a disfrutar el aprendizaje </strong></li>
     <li>🌱 Tambien hago edicion y grabacion de video </strong></li>
-    <li>📫 contactame a marcka34@gmail.com</strong></li>
+    <li>📫 contactame a andresvillamarinpena@gmail.com</strong></li>
   </ul>
