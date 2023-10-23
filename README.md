@@ -8,7 +8,7 @@ Sobre mi:
 
 - 🌱 Tambien hago edicion y grabacion de video 
 - 💬 Dispuesto a trabajar
-- 📫 contactame a marcka34@gmail.com
+- 📫 contactame a andresvillamarinpena@gmail.com
 -->
 <hr>
 <!-- MAIN PHRASE SECTION -->
